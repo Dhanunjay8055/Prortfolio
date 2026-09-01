@@ -126,7 +126,7 @@ function App() {
 
     <form>
 
-      <label>// Your Name</label>
+      <label>Your Name</label>
 
       <input
         type="text"
@@ -135,7 +135,7 @@ function App() {
       />
 
 
-      <label>// Your Email</label>
+      <label> Your Email</label>
 
       <input
         type="email"
@@ -144,7 +144,7 @@ function App() {
       />
 
 
-      <label>// Message</label>
+      <label>Message</label>
 
       <textarea
         placeholder={'String message = """\n  Hello Dhananjay...\n""";'}
